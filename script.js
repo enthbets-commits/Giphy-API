@@ -1,4 +1,5 @@
 // display gifs on page
+// final version with search working
 
 const apiKey = "mwSJtuDbG0UKBadARkMhXt2i7BAPmRts";
 
