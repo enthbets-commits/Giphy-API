@@ -1,3 +1,5 @@
+// display gifs on page
+
 const apiKey = "mwSJtuDbG0UKBadARkMhXt2i7BAPmRts";
 
 const button = document.querySelector("#fetch-gif-btn");
